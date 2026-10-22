@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.openai/deploy.tar.gz
+*.local
+*.log
+backups/
+test-results/
+*.tsbuildinfo
+outputs/
