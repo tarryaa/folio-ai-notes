@@ -1,5 +1,11 @@
 # Folio — AIノート
 
+**使い始める：[Folioを開く](https://tarryaa.github.io/folio-ai-notes/)**
+
+コード：[tarryaa/folio-ai-notes](https://github.com/tarryaa/folio-ai-notes)。公開済みのアプリとコードにはサンプルだけが含まれ、作成したノートは利用中の端末内に保存されます。
+
+![公開アプリのPC画面](docs/screenshots/desktop.png)
+
 ChatGPT の回答や調べたことを、原本を残しながら編集・整理する個人用ノートです。白を基調に、PC では一覧と編集画面を並べ、iPhone では画面を切り替えて使います。
 
 **ノートは利用中のブラウザ内に保存されます。GitHub にノートを送信する機能や、利用料金が発生する AI 呼び出しはありません。**
@@ -12,7 +18,7 @@ ChatGPT の回答や調べたことを、原本を残しながら編集・整理
 4. 編集画面で文章・表・画像を整えます。「保存済み」の表示を確認してから閉じてください。
 5. 定期的に「バックアップ」を使い、JSON ファイルを「ファイル」アプリや PC に保存してください。
 
-公開 URL は GitHub Pages のデプロイが完了したときに確定します。公開準備と iPhone への追加方法は [公開手順](docs/deployment.md) にあります。
+GitHub Pagesで公開済みです。iPhoneではSafariで上記URLを開き、共有ボタン →「ホーム画面に追加」→「追加」を選んでください。詳しい手順は [公開手順](docs/deployment.md) にあります。
 
 ## 保存の考え方
 

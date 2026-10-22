@@ -1,5 +1,7 @@
 # 公開と iPhone での使い方
 
+現在の利用URLは **[https://tarryaa.github.io/folio-ai-notes/](https://tarryaa.github.io/folio-ai-notes/)** です。コードと自動公開設定は **[GitHubリポジトリ](https://github.com/tarryaa/folio-ai-notes)** に登録済みです。ノートを保存するURLは、このURLに統一してください。違う公開先へ自動で同期する機能はありません。
+
 ## GitHub Pages への公開
 
 このフォルダには GitHub Pages 用の自動公開設定 `.github/workflows/pages.yml` を含めています。ノートを GitHub に保存する設定ではありません。公開するのはアプリのコードと初期サンプルです。
